@@ -1,0 +1,26 @@
+{
+  "name": "learning-javascript-data-structures-and-algorithms---third-edition",
+  "version": "1.0.0",
+  "description": "学习Javascript数据结构与算法",
+  "main": "index.js",
+  "scripts": {
+    "server": "http-server src -c-1 --cors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingorg1/Learning-JavaScript-Data-Structures-and-Algorithms---Third-Edition.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Data-Structures-and-Algorithms"
+  ],
+  "author": "xingorg1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingorg1/Learning-JavaScript-Data-Structures-and-Algorithms---Third-Edition/issues"
+  },
+  "homepage": "https://github.com/xingorg1/Learning-JavaScript-Data-Structures-and-Algorithms---Third-Edition#readme",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  }
+}
