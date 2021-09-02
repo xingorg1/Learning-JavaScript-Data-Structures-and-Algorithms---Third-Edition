@@ -2,9 +2,9 @@
 学习JavaScript数据结构与算法（第三版）
 
 ## 资料
-1、本书代码仓库：https://github.com/PacktPublishing/Learning-JavaScript-Data-Structures-and-Algorithms-Third-Edition. 
-2、本书作者github：https://github.com/loiane. 
-3、本书勘误：https://www.ituring.com.cn/book/2653. 
+1、本书代码仓库：https://github.com/PacktPublishing/Learning-JavaScript-Data-Structures-and-Algorithms-Third-Edition  
+2、本书作者github：https://github.com/loiane  
+3、本书勘误：https://www.ituring.com.cn/book/2653  
 
 📒笔记：https://github.com/xingorg1/Learning-JavaScript-Data-Structures-and-Algorithms---Third-Edition/wiki
 
