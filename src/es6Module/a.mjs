@@ -1,0 +1,1 @@
+export default '石头姐.mjs'
